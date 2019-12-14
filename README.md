@@ -1,5 +1,5 @@
-
 # utdEPICS Kellermann Foundation Fall 2019 
+
 
 ## Project Partner Description ##
 The Kellermann Foundation is a nonprofit organization that has aided the displaced Batwa pygmies in Uganda through projects in healthcare, education, and community development.
